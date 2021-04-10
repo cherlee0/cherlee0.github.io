@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cher Dreamer</title>
-    <link>https://cherlee0.github.io/</link>
-    <description>Recent content on Cher Dreamer</description>
+    <title>Python on Cher Dreamer</title>
+    <link>https://cherlee0.github.io/tags/python/</link>
+    <description>Recent content in Python on Cher Dreamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://cherlee0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://cherlee0.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>post 7</title>
       <link>https://cherlee0.github.io/blog/post-7/</link>
@@ -32,15 +32,6 @@
       
       <guid>https://cherlee0.github.io/blog/post-6/</guid>
       <description>Inline HTML You can also use raw HTML in your Markdown, and it&amp;rsquo;ll mostly work pretty well.</description>
-    </item>
-    
-    <item>
-      <title>Post 5</title>
-      <link>https://cherlee0.github.io/blog/post-5/</link>
-      <pubDate>Mon, 05 Apr 2021 00:00:00 +0800</pubDate>
-      
-      <guid>https://cherlee0.github.io/blog/post-5/</guid>
-      <description>Code and Syntax Highlighting Inline code has back-ticks around it.</description>
     </item>
     
     <item>
